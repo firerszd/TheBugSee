@@ -116,7 +116,7 @@ using UnityEngine;
 //using UnityEngine;
 using Vector3 = UnityEngine.Vector3;
 
-namespace SimpleJSON_Local
+namespace SeeBug
 {
     public enum JSONNodeType
     {
