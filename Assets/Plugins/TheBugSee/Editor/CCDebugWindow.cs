@@ -52,8 +52,8 @@ namespace SeeBug
         private int firstSelectIndex;
         private bool foldout;
         private Color curColor = Color.white;
-
-        [MenuItem("Window/SeeBug")]
+        
+        [MenuItem("Tools/SeeBug _F3")]
         public static void StartUp()
         {
             Instance.Priority = 1;
