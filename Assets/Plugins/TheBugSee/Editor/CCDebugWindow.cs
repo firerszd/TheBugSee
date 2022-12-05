@@ -47,7 +47,7 @@ public class CCDebugWindow : EditorWindow
     private bool foldout;
     private Color curColor = Color.white;
     
-    [MenuItem("Tools/测试界面 _F3",priority = 0)]
+    [MenuItem("Window/SeeBug")]
     public static void StartUp()
     {
         Instance.Priority = 1;
