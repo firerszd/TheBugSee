@@ -1,0 +1,12 @@
+{
+    "name": "com.cyj.seebug",
+    "displayName": "SeeBug",
+    "author": { "name": "cyj, Inc.", "url": "" },
+    "version": "2.3.3",
+    "unity": "2018.4",
+    "description": "Provides an efficient async/await integration to Unity.",
+    "keywords": [ "seebug","see","bug"],
+    "license": "MIT",
+    "category": "Bug",
+    "dependencies": {}
+}
