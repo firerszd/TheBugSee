@@ -7,6 +7,8 @@ using UnityEngine;
 
 namespace SeeBug
 {
+#if UNITY_EDITOR
+    
     public class CCDebugItem
     {
         public MethodInfo meth;
@@ -648,5 +650,6 @@ namespace SeeBug
         }
     }
 
+#endif
 
 }
